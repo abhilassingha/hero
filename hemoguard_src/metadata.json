@@ -1,0 +1,5 @@
+{
+  "name": "HemoGuard",
+  "description": "Tactical medical monitoring and hemorrhage detection system with real-time sensor fusion and AI-driven localization.",
+  "requestFramePermissions": []
+}
